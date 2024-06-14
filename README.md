@@ -25,4 +25,4 @@ This Project contains following services and folders:
 
 For any questions or feedback, please reach out:
 
-- **Goapl Jaiswal**: [Email](mailto:gopaljaiswal20192023@gmail.com)
+- **Goapl Jaiswal**: [gopaljaiswal20192023@gmail.com](mailto:gopaljaiswal20192023@gmail.com)
